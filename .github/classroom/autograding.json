@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Set 1",
+      "setup": "g++ -o a.out ./Homework/HW11/hw11-5-pass-by-value-and-reference.cpp",
+      "run": "./a.out",
+      "input": "",
+      "output": "Max Height = 191\r\nMax Age = 19",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
